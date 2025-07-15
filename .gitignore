@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit and Python cache
+.streamlit/
+*.pyo
+*.pyd
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code config (if used)
+.vscode/
